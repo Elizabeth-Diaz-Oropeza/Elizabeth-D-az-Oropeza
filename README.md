@@ -3,9 +3,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **Fundamentos de desarrollo web con HTML, CSS y JavaScript**
 
-- 👯 Estoy buscando colaborar en [Bionova](https://github.com/Bionovaa)
+- 👯 Soy colaboradora en [Bionova](https://github.com/Bionovaa)
 
-- 👯 Estoy buscando colaborar en [CHILTIC-T](https://github.com/CHILTIC-T)
+- 👯 Soy colaboradora en [CHILTIC-T](https://github.com/CHILTIC-T)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Próximamente en mi portafolio personal (en construcción)](Próximamente en mi portafolio personal (en construcción))
 
